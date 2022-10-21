@@ -2,6 +2,7 @@
 
 ## Iniciação Científica FIAP
 ![Logo Agrotech](https://github.com/nwrn/agrotech/blob/master/Agrotech_logo.jpeg?raw=true)
+
 Página web criada para divulgar e falar sobre o projeto da Iniciação Científica 2022 da faculdade FIAP.
 
 **Sobre o projeto:** Projeto IOT para uma solução de baixo custo e plug-and-play de irrigação automatizada com Arduino e monitoramento de dados da planta através de um Dashboard em uma Raspberry PI, como variação de umidade, temperatura do ambiente e consumo da API OpenWeather com informações do clima da cidade.

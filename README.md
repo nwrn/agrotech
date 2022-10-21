@@ -11,7 +11,7 @@ Página web criada para divulgar e falar sobre o projeto da Iniciação Científ
 
 ## Landing Page Agrotech
 
-![Gif Apresentação Site Agrotech](.AgrotechSiteGif.gif Gif Site Agrotech)
+![Gif Apresentação Site Agrotech](./AgrotechSiteGif.gif Gif Site Agrotech)
 
 **Objetivo do site:** Procuramos descrever e explicar a motivação do projeto, falar para que serve e também compartilhar e valorizar as pessoas que fizeram acontecer.
 

@@ -1,7 +1,7 @@
 # Agrotech NEXT 2022
 
 ## Iniciação Científica FIAP
-![Logo Agrotech](../Agrotech.Site.Images/Agrotech_logo.jpeg Logo Agrotech)
+![Logo Agrotech](./Agrotech_logo.jpeg Logo Agrotech)
 Página web criada para divulgar e falar sobre o projeto da Iniciação Científica 2022 da faculdade FIAP.
 
 **Sobre o projeto:** Projeto IOT para uma solução de baixo custo e plug-and-play de irrigação automatizada com Arduino e monitoramento de dados da planta através de um Dashboard em uma Raspberry PI, como variação de umidade, temperatura do ambiente e consumo da API OpenWeather com informações do clima da cidade.
@@ -11,7 +11,7 @@ Página web criada para divulgar e falar sobre o projeto da Iniciação Científ
 
 ## Landing Page Agrotech
 
-![Gif Apresentação Site Agrotech](../Agrotech.Site.Images/AgrotechSiteGif.gif Gif Site Agrotech)
+![Gif Apresentação Site Agrotech](.AgrotechSiteGif.gif Gif Site Agrotech)
 
 **Objetivo do site:** Procuramos descrever e explicar a motivação do projeto, falar para que serve e também compartilhar e valorizar as pessoas que fizeram acontecer.
 
